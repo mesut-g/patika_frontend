@@ -10,4 +10,4 @@
 
 ## Bölüm Sonu Çalışması
 
-https://streamable.com/6mw9z3
+https://user-images.githubusercontent.com/96540940/152499907-41720af2-db87-4d0e-a0dd-662df571a08c.mp4

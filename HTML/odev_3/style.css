@@ -1,3 +1,40 @@
-#head{
-    background: #cf4f4f;
+#navbar-ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+  }
+  
+  .navbar {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111111;
+  }
+  .recipe{
+      background-color: #E1D9D1;
+      text-align: center;
+      
+  }
+  body{
+      background-color: #D3D3D3;
+  }
+  li{
+      list-style-type: none;
+      padding: 10px;
+  }
+  .bilgi{
+    display: inline-block;
+    margin: 17px;
+    opacity: 50%;  
 }

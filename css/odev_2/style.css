@@ -1,10 +1,28 @@
-.container{
-    font-family: cursive;
-    width: 300px;
-    height: 300px;
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+}
+.searchbar{
+    text-align:center;
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
     background-color: lightgray;
-    text-align: center;
-    display: inline-table;
-    margin: 20px;
-    padding: 15px;
+}
+#buttons{
+    margin: 2px;
+}
+.links{
+    display:table-cell;
+    width: 33%;
+    text-align:center;
+    background-color: darkturquoise; 
+}
+ul{
+    list-style-type:none; }
+#card{
+    width: 100%;
+    display: table;
+    border-spacing:2px;
 }

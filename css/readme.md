@@ -19,3 +19,10 @@ Faydalandığım Kaynaklar:
 [w3schools](https://www.w3schools.com/)
 
 [html reference](https://htmlreference.io/)
+
+
+## Ödev 2
+Yapılması İstenen:
+![](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/css/cssodev3/figures/googlehomepage.png)
+Benim Yaptığım:
+![](https://user-images.githubusercontent.com/96540940/153705759-6d259854-3bcc-42b9-9b58-3c43a6744148.png)

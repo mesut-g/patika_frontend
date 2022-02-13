@@ -26,3 +26,17 @@ Yapılması İstenen:
 ![](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/css/cssodev3/figures/googlehomepage.png)
 Benim Yaptığım:
 ![](https://user-images.githubusercontent.com/96540940/153705759-6d259854-3bcc-42b9-9b58-3c43a6744148.png)
+
+## Ödev 3
+
+Yapılması İstenen aşağıdaki şekilde verilen siteyi:
+
+![](odev_3/img/googlehomepage.gif)
+
+Şu hale getirmekti:
+![](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/css/odev2/figures/googlehomepage.png)
+
+
+Sesli arama butonu haricini tamamladım ve sonuç bu şekilde:
+
+![]()

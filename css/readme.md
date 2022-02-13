@@ -39,4 +39,4 @@ Yapılması İstenen aşağıdaki şekilde verilen siteyi:
 
 Sesli arama butonu haricini tamamladım ve sonuç bu şekilde:
 
-![](/CSS/odev_3/img/google_newpage.png)
+![](odev_3/img/google_newpage.png)

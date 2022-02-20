@@ -8,5 +8,5 @@ Yapılması İstenen:
 
 Benim Yaptığım:
 
-![](https://user-images.githubusercontent.com/96540940/154831465-7152e8d1-a0f4-4ace-ad5a-b36a1cdf1ada.mp4)
+https://user-images.githubusercontent.com/96540940/154831631-2720f2ee-89c8-4160-a249-9462cfee6ee7.mp4
 
